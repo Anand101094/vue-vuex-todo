@@ -114,8 +114,3 @@ export default {
 };
 </script>
 
-<style scoped>
-/* .todo__options:hover > .todo__options-container {
-  display: flex;
-} */
-</style>
