@@ -1,1 +1,4 @@
 node_modules
+
+# ignore MAC system file
+.DS_store
