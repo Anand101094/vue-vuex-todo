@@ -12,7 +12,7 @@
       class="font-bold text-l px-5 py-2 bg-sky-300 rounded-sm absolute right-0 border border-sky-300"
       @click="openModal(currentTodo)"
     >
-      + Create Todos
+      + Add Todos
     </button>
 
     <todo-create-modal></todo-create-modal>
